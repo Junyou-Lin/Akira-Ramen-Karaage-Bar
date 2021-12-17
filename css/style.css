@@ -1,0 +1,11 @@
+* {
+  scroll-behavior: smooth;
+}
+body,
+#menu {
+  padding-top: 70px;
+}
+
+a {
+  text-decoration: none;
+}
