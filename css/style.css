@@ -25,3 +25,7 @@ p,
 button {
   font-family: "PT Sans", sans-serif;
 }
+
+.checked {
+  color: orange;
+}
